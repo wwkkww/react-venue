@@ -21,7 +21,7 @@ const Venue = () => {
                   }}
                 ></div>
                 <div className="vn_title">Event Date & Time</div>
-                <div className="vn_desc">24 December 2018 @8.00pm</div>
+                <div className="vn_desc">14 February 2019 @8.00pm</div>
               </div>
             </div>
           </div>

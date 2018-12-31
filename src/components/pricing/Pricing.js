@@ -11,9 +11,9 @@ class Pricing extends Component {
       'Exercitationem fuga possimus corrupti odio illum quidem deserunt ut, delectus ad ullam', 'debitis vero ducimus maiores repudiandae dolore molestiae vitae nulla explicabo!'
     ],
     linkto:[
-      'http://sales/a',
-      'http://sales/b',
-      'http://sales/c'
+      'http://google.com/a',
+      'http://google.com/b',
+      'http://google.com/c'
     ], 
     delay: [500, 0, 1000]
   }
